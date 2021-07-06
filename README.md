@@ -1,5 +1,5 @@
 # wizards-chess
-This is my final group project for CS/DS 579 at UW-Madison. Initially this project was intended for VR, but then Covid hit and we no longer had access to the VR equipment. We had to adapt the game to be playable on PC with simple mouse and keyboard controls.
+This is my final group project for CS/DS 579 during my 2019-2020 fall semester at UW-Madison. Initially this project was intended for VR, but then Covid hit and we no longer had access to the VR equipment. We had to adapt the game to be playable on PC with simple mouse and keyboard controls.
 
 You can download the game here: https://drive.google.com/file/d/1amYeYbA3sDfc1UI4HcTxCPlbpuwtjq-2/view?usp=sharing
 
